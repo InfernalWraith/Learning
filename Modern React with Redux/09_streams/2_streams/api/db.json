@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "First Test",
+      "description": "Test stream, first of its kind!",
+      "id": 1
+    },
+    {
+      "title": "Second Test",
+      "description": "A second test to test some more!",
+      "id": 2
+    },
+    {
+      "title": "User Stream Test",
+      "description": "A test stream containing the user ID, wow!",
+      "userId": "110513853068422068981",
+      "id": 3
+    },
+    {
+      "title": "Navigation Test, Edited",
+      "description": "Testing navigation... now with edits!",
+      "userId": "110513853068422068981",
+      "id": 4
+    },
+    {
+      "title": "New Stream Test",
+      "description": "Now with StreamForm as the base!",
+      "userId": "110513853068422068981",
+      "id": 5
+    }
+  ]
+}
